@@ -3,7 +3,7 @@
 # Resumo do projeto
 Game criado com React, com objetivo de praticar o hook useState.
 <br/>
-Link: ?
+Link: https://qual-e-a-palavra.vercel.app
 
 # <h3 align="left"> :coffee: Tecnologias utilizadas: </h3>
 
